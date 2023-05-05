@@ -10,18 +10,18 @@ import {
 const Footer = () => {
 
     return (
-        <div className='w-full h-[80px]  px-4 bg-[#0a192f] text-gray-300'>
+        <div className='px-4 bg-[#0a192f] text-gray-300'>
        
-         <div className='flex justify-center text-center items-center mx-auto'>
-        <ul className='md:flex'>
-          <li>
-            <a
+          <div className='flex justify-center text-center items-center mx-auto'>
+            <ul className='flex'>
+              <li>
+              <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://www.linkedin.com/in/paulacgsilva/' target="_blank">
-            <FaLinkedin size={20} />
-            </a>
-          </li>
-          <li>
+              <FaLinkedin size={20} />
+              </a>
+            </li>
+            <li>
             <a
               className='flex justify-between items-center w-full text-gray-300'
               href='https://github.com/paulasdev' target="_blank">
@@ -33,7 +33,7 @@ const Footer = () => {
               className='flex justify-between items-center w-full text-gray-300'
               href='mailto:carolpaulag@gmail.com' target="_blank"
             >
-        <HiOutlineMail size={20} />
+          <HiOutlineMail size={20} />
             </a>
           </li>
           <li>
@@ -46,10 +46,10 @@ const Footer = () => {
         </ul>
         </div> 
 
-        <div className='flex justify-center text-center items-center mx-auto'>
+        <div className='p-4 text-center text-neutral-700'>
             © 2023 Paula da Silva. All rights reserved.
-            </div>
         </div>
+</div>
     );
 };
 
