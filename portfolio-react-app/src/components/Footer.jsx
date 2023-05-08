@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { HiOutlineMail } from 'react-icons/hi';
 import { BsFillPersonLinesFill } from 'react-icons/bs';
+import CV from '../assets/cv.pdf';
 import {
     FaGithub,
     FaLinkedin,
@@ -39,7 +40,7 @@ const Footer = () => {
           <li>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href= "https://docs.google.com/document/d/e/2PACX-1vQsQa4Pn16yr1gQ8C0a4Y6vtqP9VVIimbRlX_FNnDZOBAm0PM_itLKdpD-w3EHU1Er8jnmqrgijXF2h/pub" target="_blank">
+              href= {CV} target="_blank">
             <BsFillPersonLinesFill size={20} />
             </a>
           </li>
