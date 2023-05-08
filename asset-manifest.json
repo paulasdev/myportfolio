@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.972c3618.css",
-    "main.js": "/myportfolio/static/js/main.d96d97d5.js",
+    "main.js": "/myportfolio/static/js/main.33cc8f6c.js",
     "static/media/thebrunchbasket.png": "/myportfolio/static/media/thebrunchbasket.170daf1bbf9b118c1e59.png",
     "static/media/foundintranslation.png": "/myportfolio/static/media/foundintranslation.0061fd1776ce88a979ec.png",
     "static/media/freshemart.png": "/myportfolio/static/media/freshemart.00eb237306117bb5e427.png",
     "static/media/bricklib.png": "/myportfolio/static/media/bricklib.496f724001aa9d7e9504.png",
+    "static/media/cv.pdf": "/myportfolio/static/media/cv.20f4b1e542d72d4dacec.pdf",
     "static/media/react.png": "/myportfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/myportfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/github.png": "/myportfolio/static/media/github.3b9e32903aa89111875d.png",
@@ -17,10 +18,10 @@
     "static/media/javascript.png": "/myportfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/myportfolio/index.html",
     "main.972c3618.css.map": "/myportfolio/static/css/main.972c3618.css.map",
-    "main.d96d97d5.js.map": "/myportfolio/static/js/main.d96d97d5.js.map"
+    "main.33cc8f6c.js.map": "/myportfolio/static/js/main.33cc8f6c.js.map"
   },
   "entrypoints": [
     "static/css/main.972c3618.css",
-    "static/js/main.d96d97d5.js"
+    "static/js/main.33cc8f6c.js"
   ]
 }
